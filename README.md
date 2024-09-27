@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Moura</h1>
-<h3 align="center">Tenho 26 anos, atualmente cursando mba em Cloud computing and Devops e aprendendo e desenvolvendo em C# e SQL server.</h3>
+## 💜 Olá, meu nome é Moura!
+
+Tenho 26 anos, atualmente cursando mba em Cloud computing and Devops e aprendendo e desenvolvendo em C# e SQL server.
+
+---
+
+## 🚀 Minhas Skills
 
 <p align="left">
 </p>
