@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Moura!
+## 👨‍💻 Olá, meu nome é Moura!
 
 Tenho 26 anos, atualmente cursando mba em Cloud computing and Devops e aprendendo e desenvolvendo em C# e SQL server.
 
