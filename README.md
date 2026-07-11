@@ -94,9 +94,6 @@ Um e-commerce fictício construído com falhas reais injetadas — race conditio
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Offmoura&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offmoura&layout=compact&langs_count=8&theme=dark&hide_border=true" />
-</p>
 
 
 
