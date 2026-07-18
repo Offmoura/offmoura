@@ -16,7 +16,7 @@ DevOps · SRE · Go · Observabilidade · Automação
 
 ## 🔥 Projeto em Destaque
 
-### [[Broken Friday](https://github.com/Offmoura/broken-friday)](https://github.com/Offmoura/BrokenFriday) *(em construção)*
+### [[Broken Friday](https://github.com/Offmoura/broken-friday)] *(em construção)*
 > Marketplace open-source **propositalmente quebrado** para ensinar DevOps/SRE na prática.
 
 Um e-commerce fictício construído com falhas reais injetadas — race conditions, connection pool esgotado, deploy sem health check, observabilidade zero. O dev clona, observa o caos e aprende a consertar.
