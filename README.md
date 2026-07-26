@@ -1,4 +1,4 @@
-<h1 align="center">things break. i figure out why. then i automate it.</h1>
+<h1 align="center">Things break, and I like to figure out why</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-de-moura-9058401b7/" target="_blank">
